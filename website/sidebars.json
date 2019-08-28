@@ -1,10 +1,10 @@
 {
     "docs": {
         "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
-        "Docusaurus": ["guides"],
-        "Second Category": ["doc3"]
+        "Guias": ["guides"]
     },
-    "docs-other": {
-        "First Category": ["api", "doc5"]
+    "docs-api": {
+        "Getting Started": ["api/api-intro"],
+        "Integrações": ["api/api-integrations"]
     }
 }
