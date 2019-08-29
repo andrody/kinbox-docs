@@ -24,7 +24,7 @@ const siteConfig = {
     title: "Guias & Docs", // Title for your website.
     tagline: "",
     url: "https://andrody.github.io", // Your website URL
-    baseUrl: "/kinbox-docs/", // Base URL for your project */
+    baseUrl: "/", // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
