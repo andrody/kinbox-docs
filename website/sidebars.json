@@ -1,7 +1,8 @@
 {
     "docs": {
         "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
-        "Guias": ["guides"]
+        "Guias": ["guides"],
+        "Usando o Kinbox": ["guides/tags", "guides/quick-phrases"]
     },
     "docs-api": {
         "Getting Started": ["api/api-intro"],
