@@ -2,7 +2,14 @@
     "docs": {
         "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
         "Guias": ["guides"],
-        "Usando o Kinbox": ["guides/tags", "guides/quick-phrases"]
+        "Usando o Kinbox": [
+            "guides/tags",
+            "guides/quick-phrases",
+            "guides/groups",
+            "guides/business-hours",
+            "guides/agents",
+            "guides/autoassign"
+        ]
     },
     "docs-api": {
         "Getting Started": ["api/api-intro"],
