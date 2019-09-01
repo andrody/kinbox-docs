@@ -13,6 +13,8 @@ Seus agentes representam seu negócio, cativando e conversando com seus usuário
 O Agente em questão receberá um email de ativação nos próximos minutos para 
 entrar no seu workspace.
 
+<!-- ![](../../img/plugin/add-plugin.PNG) -->
+
 ## Permissões
 - Admin (Acesso a tudo)
 - Master (Não tem acesso a parte relativo a pagamento)

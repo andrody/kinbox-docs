@@ -1,15 +1,26 @@
 {
     "docs": {
         "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
-        "Guias": ["guides"],
         "Usando o Kinbox": [
+            "guides/groups",
             "guides/tags",
             "guides/quick-phrases",
-            "guides/groups",
             "guides/business-hours",
             "guides/agents",
-            "guides/autoassign"
-        ]
+            "guides/autoassign",
+            "guides/bot",
+            "guides/custom-props",
+            "guides/inbox-filters",
+            "guides/permissions",
+            "guides/webhook",
+            "guides/api-key",
+            "guides/add-channel-whatsapp",
+            "guides/add-channel-email",
+            "guides/add-channel-facebook",
+            "guides/add-channel-telegram",
+            "guides/add-channel-custom"
+        ],
+        "Suporte": ["guides"]
     },
     "docs-api": {
         "Getting Started": ["api/api-intro"],
