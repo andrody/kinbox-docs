@@ -1,6 +1,10 @@
 {
     "docs": {
-        "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
+        "Começando": [
+            "into/geting-started-into",
+            "into/geting-started-channels",
+            "into/geting-started-faq"
+        ],
         "Usando o Kinbox": [
             "guides/groups",
             "guides/tags",
@@ -20,6 +24,7 @@
             "guides/add-channel-telegram",
             "guides/add-channel-custom"
         ],
+        "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
         "Suporte": ["guides"]
     },
     "docs-api": {
