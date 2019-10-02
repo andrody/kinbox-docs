@@ -36,7 +36,7 @@ Headers esperados:
 
 |     Chave      |Descrição                          
 |----------------|----------------------------------------------------------------------------|
-|x-api-token     |“Kinbox Token” do seu workspace)                                            |
+|x-api-token     |[“Kinbox Token”](/docs/guides/api-key) do seu workspace)                                            |
 
 Tipos possíveis:
 
@@ -82,7 +82,7 @@ Para fazer a validação, são necessárias duas informações:
 - Valor do header x-hub-signature. Vamos chamar esse valor de "assinatura da requisição";
 - Corpo da requisição (no mesmo formato mostrado na seção anterior). É o “body” completo da requisição POST.
 
-Com esses dois valores, basta realizar o HMAC-SHA256 do corpo da requisição utilizando a sua “**API Secret**“ e comparar o resultado com a assinatura da requisição. Se os valores forem iguais, excelente. Caso contrário, não foi o Kinbox que enviou essa requisição e ela pode ser descartada.
+Com esses dois valores, basta realizar o HMAC-SHA256 do corpo da requisição utilizando a sua "[**API Secret**](/docs/guides/api-key)" e comparar o resultado com a assinatura da requisição. Se os valores forem iguais, excelente. Caso contrário, não foi o Kinbox que enviou essa requisição e ela pode ser descartada.
 
 Exemplo de validação com NodeJS:
 
