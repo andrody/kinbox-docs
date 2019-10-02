@@ -13,7 +13,9 @@ O Kinbox WhatsApp é uma plataforma que foi pensada para atender as demandas de 
 
 > O WhatsApp tem uma forte política anti-spam, pensando nisso Kinbox elaborou estratégias para o uso da plataforma com ríscos mínimos de banimento, até hoje nunca tivemos um número sequer banido, porém ao realizar campanhas você pode alterar esses parâmetros, o Kinbox não se responsabiliza pelo banimento do seu número.
 
-[Clique aqui para mais detalhes](/docs/guides/add-channel-whatsapp)
+[Clique aqui para mais detalhes sobre WhatsApp](/docs/guides/add-channel-whatsapp)
+
+[Clique aqui para mais detalhes de campanhas](/docs/guides/create-campain)
 
 ## Facebook Messenger
 
