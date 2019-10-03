@@ -46,6 +46,8 @@ A ação de entrada de dados oferece algumas validações então você pode deix
 
 ![](../../img/bot/actions_input.png)
 
+Os item coletados aqui estarão disponíveis nas **[Propriedades customizadas do cliente](/docs/guides/custom-props)**
+
 ### Atendimento
 A ação de atendimento encaminha o fluxo da conversa para dois pontos:
 - Um grupo, [saiba mais sobre grupos clicando aqui](/docs/guides/groups)
