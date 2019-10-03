@@ -3,4 +3,4 @@ id: api-intro
 title: Introdução da API
 ---
 
-this is another document
+Em breve iremos documentar essa sessão.

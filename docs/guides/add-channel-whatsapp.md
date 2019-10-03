@@ -18,3 +18,7 @@ WhatsApp é um aplicativo multiplataforma de mensagens instantâneas e chamadas 
 - Para ativar o novo canal de WhatsApp, clique em "Ler QRCode" no menu superior.
 - Irá aparecer uma janela com um QRCode que você deverá ler pelo app WhatsApp no seu celular.
 - Quando seu número for ativado a janela se fechará sozinha e seu número estará ativado.
+
+## Removendo um canal
+- Vá para Configurações > Canais > e escolha o whatsapp que você conectou.
+- Clique em excluir e confime
