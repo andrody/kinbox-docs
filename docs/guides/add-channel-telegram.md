@@ -28,3 +28,7 @@ O Telegram é um serviço de mensagens instantâneas baseado na nuvem. O Telegra
 
 - Cole o token onde tem esrito "Token" no Kinbox.
 ![](../../img/telegram5.png)
+
+## Removendo um canal
+- Vá para Configurações > Canais > e escolha a conta telegram que você conectou.
+- Clique em excluir e confime

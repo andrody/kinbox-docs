@@ -3,4 +3,4 @@ id: api-integrations
 title: Integrações da API
 ---
 
-this is another document
+Em breve iremos documentar essa sessão.

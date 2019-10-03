@@ -14,3 +14,7 @@ por conversas que tenham a tag marcada.
 ## Usando uma tag
 - Clique na opção "Categorizar" no menu de uma conversa.
 - Selecione a tag desejada e a tag será marcada para essa conversa
+
+>As tags são por atendimento, uma vez finalizada se o cliente reabrir outra chamada nova, essa chamada não terá tags
+
+>Caso seja necessário reabrir um atedimento finalizado, as tags permanecerão no atendimento
