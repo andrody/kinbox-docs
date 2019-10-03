@@ -7,5 +7,5 @@ Quando uma cliente entra em contato, primeiramente essa conversa não é atribu�
 - Um [grupo](/docs/guides/groups)
 - Um [agente](/docs/guides/agents)
 
-Dessa forma, o atendimento do cliente é automaticamente coletado e encaminhado para o setor/agente que você deseja.
+Dessa forma, o atendimento do cliente é automaticamente coletado e encaminhado para o grupo/agente que você deseja.
 >O [Bot](/docs/guides/bot) será executado mesmo que haja uma atribuição automática configurada.
