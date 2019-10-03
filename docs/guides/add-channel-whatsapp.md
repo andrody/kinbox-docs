@@ -22,3 +22,8 @@ WhatsApp é um aplicativo multiplataforma de mensagens instantâneas e chamadas 
 ## Removendo um canal
 - Vá para Configurações > Canais > e escolha o whatsapp que você conectou.
 - Clique em excluir e confime
+
+## Formatando mensagens
+Você pode formatar as mensagens enviadas para seus clientes com **negrito**, *itálico*, ~~riscado~~, ```monospace``` dando uma cara mais personalizada a sua mensagem.
+
+<a href="https://faq.whatsapp.com/en/android/26000002/" target="_blank">Clique aqui e saiba mais sobre formatação de mensagens do WhatsApp</a>
