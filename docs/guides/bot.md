@@ -65,7 +65,7 @@ Essa ação direciona o fluxo de uma conversa para outro **[Caminho](/docs/guide
 Essa ação executa um `script`, esse `script` pode usar as informações coletadas para enviá-las para sua api por exemplo.
 
 ### Finalizar conversa
-A ação de finalização de conversa, marca a conversa como **finalizada** e encerra o atendimento, muitas vezes o bot consegue interagir com seu cliente e resolve o seu problema, uma vez que isso aconteça a ação de finalizar conversa é necessária para fins de atendimento e relatórios.
+A ação de finalização de conversa, marca a conversa como **finalizada** e encerra o atendimento, muitas vezes o bot consegue interagir com seu cliente e resolve o seu problema, uma vez que isso aconteça a ação de finalizar conversa é necessária para fins de controle de atendimento e relatórios.
 
 ## Configurações do bot
 Você pode configurar o bot para:
