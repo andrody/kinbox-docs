@@ -70,7 +70,7 @@ A ação de finalização de conversa, marca a conversa como **finalizada** e en
 ## Configurações do bot
 Você pode configurar o bot para:
 - Atender [canais específicos](/docs/into/geting-started-channels)
-- Atender em [Horários específicos](/docs/guides/business-hours)
+- Atender em [horários específicos](/docs/guides/business-hours)
 - Marcar se ele atende apenas novos clientes
 
 ## Exportar o bot
