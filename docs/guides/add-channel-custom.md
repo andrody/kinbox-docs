@@ -17,7 +17,7 @@ Para que os seus Clientes na sua plataforma e os seus Operadores no Kinbox possa
 
 Após preencher o formulário clique em “Salvar".
 
-##  Envio e recebimento de mensagem e recebimento de mensagem
+##  Envio e recebimento de mensagem
 Caso sua empresa já disponibilize um canal de comunicação com seus clientes, como por exemplo um chat em um aplicativo mobile, é possível fazer com que as mensagens dos seus clientes que chegam ao seu sistema sejam encaminhadas para o Kinbox, onde será gerada uma conversa, caso já não exista uma para aquele cliente, permitindo que um operador possa realizar o atendimento como se a conversa viesse de um canal padrão qualquer do Kinbox (como do WhatsApp, por exemplo).
 
 ## Enviando mensagens da sua plataforma para o Kinbox
