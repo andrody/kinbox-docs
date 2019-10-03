@@ -10,6 +10,8 @@ A maior vantagem do bot é sua resposta instântanea, como ele, seu cliente é a
 
 Bots podem ser ativados dependendo de condições, por exemplo, quando se é um contato novo ou já existente.
 
+>Se um operador responder a uma conversa que esta sendo atendida pelo Bot, automaticamente o Bot para de atender aquela conversa e a mesma é encaminha para o operador que respondeu.
+
 ## Criando um bot
 
 - Clique em Configurações -> Bot -> Novo (Canto superior esquerdo)
