@@ -5,11 +5,11 @@ title: Canais Suportados
 
 ## Suporte a canais
 
-O kinbox hoje dá suporte a **cinco** canais diferentes de cominicação (em breve com suporte ao Instagram) com a capacidade de envio e recebimento de imagens, vídeos, figurinhas, áudios e etc, eles são:
+O kinbox hoje dá suporte a **cinco** canais diferentes de comunicação (em breve com suporte ao Instagram) com a capacidade de envio e recebimento de imagens, vídeos, figurinhas, áudios e etc, eles são:
 
 ## WhatsApp
 
-O Kinbox WhatsApp é uma plataforma que foi pensada para atender as demandas de comunicação do WhatsApp da sua empresa em mente. Com nossa plataforma, as empresas podem interagir facilmente com clientes, usando ferramentas para automatizar, organizar e responder rapidamente a mensagens, além disso nossa plataforma dá suporte a **Campanhas de mensagens**, com isso você pode disparar milhares de mensagens ao mesmo tempo para seus contatos, os informando de notícias e promoções, aproximando sua empresa ainda mais do seu cliente.
+O Kinbox WhatsApp é uma plataforma que foi pensada para atender as demandas de comunicação do WhatsApp da sua empresa. Com nossa plataforma, as empresas podem interagir facilmente com clientes, usando ferramentas para automatizar, organizar e responder rapidamente a mensagens, além disso nossa plataforma dá suporte a **Campanhas de mensagens**, com isso você pode disparar milhares de mensagens ao mesmo tempo para seus contatos, os informando de notícias e promoções, aproximando sua empresa ainda mais do seu cliente.
 
 > O WhatsApp tem uma forte política anti-spam, pensando nisso Kinbox elaborou estratégias para o uso da plataforma com ríscos mínimos de banimento, até hoje nunca tivemos um número sequer banido, porém ao realizar campanhas você pode alterar esses parâmetros, o Kinbox não se responsabiliza pelo banimento do seu número.
 

@@ -5,10 +5,10 @@ title: Bot
 
 Deixe seu bot ter o primeiro contato e coletar informações dos seus usuários, ajudando sua equipe a focar em conversas que realmente precisam de sua atenção. Um bot pode automatizar o atendimento de todos os seus canais customizados, incluindo o seu [Canal Customizado](/docs/guides/add-channel-custom).
 
-A maior vantagem do bot é sua resposta instântanea, como ele seu cliente é atendido na hora aumentado o bem estar no processo de atendimento, alé disso o bot pode coletar informações do seu cliente como **CPF**, **Nome**, **Idade** ou **o que você quiser**, isso aumenta a produtividade dos agentes adiantando esse passo no atendimento, também é possível dentro do fluxo do bot fazer com que ele encaminhe mensagens a agentes especializados no atendimento de um determinado cliente, tudo isso por meio de menus de escolha.
+A maior vantagem do bot é sua resposta instântanea, como ele, seu cliente é atendido na hora aumentado o bem estar no processo de atendimento, alé disso o bot pode coletar informações do seu cliente como **CPF**, **Nome**, **Idade** ou **o que você quiser**, isso aumenta a produtividade dos agentes adiantando esse passo no atendimento, também é possível dentro do fluxo do bot fazer com que ele encaminhe mensagens a agentes especializados no atendimento de um determinado cliente, tudo isso por meio de menus de escolha.
 <!-- ![](../../img/plugin/add-plugin.PNG) -->
 
-Bots podem ser ativados dependendo de condições, como se é um contato novo ou já existente.
+Bots podem ser ativados dependendo de condições, por exemplo, quando se é um contato novo ou já existente.
 
 ## Criando um bot
 
@@ -33,14 +33,14 @@ Dessa forma, você cria um fluxo de ações que vão conduzir o atendimento do s
 ## Ações
 
 ### Mensagens
-A ação de mensagem exibe uma simples mensagem de texto, geralmente é usada para informações a acerca dos próximos passos ou para avisar a próxima ação.
+A ação de mensagem exibe uma simples mensagem de texto, geralmente é usada para informações acerca dos próximos passos ou para avisar a próxima ação.
 
 ### Entrada de dados
 A ação de entrada de dados permite que o bot colete informações dos seus clientes.
 - Informe o texto, ex. "Qual o seu nome?"
 - Escolha uma das respostas: padrão, comuns ou personalizada
     
-Ao escolher o tipo de resposta, você verá dois campos, **Nome da propriedade** e **Código da propriedade**, o primeiro é um "nome" que representa um "label" e o segundo um valor, com isso você pode construir frases usando esse valor, por exemplo, após a ação de pegar o nome, na próxima ação de texto você pode escrever "Obrigado **{{name}}** por escolher o kinbox, agradecemos seu contato e estamos sempre a disposição", sendo **{{name}}** o nome do cliente que coletado em um fluxo passado.
+Ao escolher o tipo de resposta, você verá dois campos, **Nome da propriedade** e **Código da propriedade**, o primeiro é um "nome" que representa um "label" e o segundo um valor, com isso você pode construir frases usando esse valor, por exemplo, após a ação de pegar o nome, na próxima ação de texto você pode escrever "Obrigado **{{name}}** por escolher o kinbox, agradecemos seu contato e estamos sempre a disposição", sendo **{{name}}** o nome do cliente que foi coletado em uma ação de **Entrada de dados** passada.
 
 A ação de entrada de dados oferece algumas validações então você pode deixar uma frase em caso de erro no fornecimento da informação por parte do cliente.
 

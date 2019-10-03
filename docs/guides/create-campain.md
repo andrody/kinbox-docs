@@ -41,7 +41,7 @@ O kinbox dá suporte a **campanhas**, ou seja, se você quer atingir uma massa g
 ## Acompanhando uma campanha
 
 Uma vez criada a campanha ela é listada na página principal da campanha, lá você pode acompanhar o progresso de envio das mensagens e algumas informações como a data de início, quantidade de mensagens enviadas e status do processamento da sua campanha.
-![lista de campanhas](../../img/campain/lista_campanha.png)
+![lista de campanhas](../../img/campain/lista_campanha.PNG)
 >Temos suporte a várias campanhas ao mesmo tempo, então você pode criar várias campanhas com datas diferentes e assuntos diferentes que iremos processar e enviar as mensagens nos períodos selecionados por você.
 
 Ao selecionar uma campanha você verá as informações da mesma com a opção de editar o nome da campanha ou até mesmo excluir essa campanha a qualquer momento do progresso dela.
