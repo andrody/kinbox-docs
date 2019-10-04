@@ -8,6 +8,7 @@
         "Usando o Kinbox": [
             "guides/agents",
             "guides/autoassign",
+            "guides/subscriptions",
             "guides/bot",
             "guides/create-campain",
             "guides/add-channel-whatsapp",
@@ -23,7 +24,8 @@
             "guides/permissions",
             "guides/custom-props",
             "guides/tags",
-            "guides/webhook"
+            "guides/webhook",
+            "guides/workspace"
         ],
         "Plugin": ["plugins/plugin-intro", "plugins/plugin-create"],
         "Suporte": ["guides"]
