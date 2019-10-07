@@ -3,14 +3,14 @@ id: reports
 title: Relatórios
 ---
 
-Com os relatórios do Kinbox você pode acompanhar de forma organizada e simples todos os atendimentos da sua empresa, com informações detalhadas de tempo e quantidade de conversas você consegue mensurar a qualiade do atendimento de seus [agentes](/docs/guides/agents).
+Com os relatórios do Kinbox você pode acompanhar de forma organizada e simples todos os atendimentos da sua empresa, com informações detalhadas de tempo e quantidade de conversas você consegue mensurar a qualidade do atendimento de seus [agentes](/docs/guides/agents).
 
 ## Relatório de Tempo Real
 - Vá em **Relatórios** no menu superior
 - Clique em **Tempo Real** no menu lateral esquerdo
 - Selecione **Conversas Resolvidas** ou **Contatos por canais**
 
-Os relatorios de tempo real mostram de maneira geral informações dos seus atendimentos dos últimos sete dias, trazendo informações de:
+Os relatórios de tempo real mostram de maneira geral informações dos seus atendimentos dos últimos sete dias, trazendo informações de:
 - **Agentes online**: Quantidades de [agentes](/docs/guides/agents) atendendo no momento.
 - **Novas conversas**: Quantidades de conversas novas dos útimos sete dias.
 - **Conectaram hoje**: Quantidades de [agentes](/docs/guides/agents) que se conectaram hoje.
