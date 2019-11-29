@@ -5,7 +5,7 @@ title: Canais Suportados
 
 ## Suporte a canais
 
-O kinbox hoje dá suporte a **cinco** canais diferentes de comunicação (em breve com suporte ao Instagram) com a capacidade de envio e recebimento de imagens, vídeos, figurinhas, áudios e etc, eles são:
+O kinbox hoje dá suporte a **seis** canais diferentes de comunicação com a capacidade de envio e recebimento de imagens, vídeos, figurinhas, áudios e etc, eles são:
 
 ## WhatsApp
 
@@ -16,6 +16,12 @@ O Kinbox WhatsApp é uma plataforma que foi pensada para atender as demandas de 
 [Clique aqui para mais detalhes sobre WhatsApp](/docs/guides/add-channel-whatsapp)
 
 [Clique aqui para mais detalhes de campanhas](/docs/guides/create-campain)
+
+## Instagram Direct
+
+Para as empresas, o aplicativo pode acabar se tornando uma ferramenta eficaz de marketing digital, com alto potencial de atração de clientes, desde que seja utilizado estrategicamente. Pesquisas mostram que o aplicativo tem sido usado cada vez mais para definição de estilo de vida, pesquisa de compras, reconhecimento de marca e muito mais. O Kinbox o ferece suporte ao Direct do Instagram, atenda seus clientes com eficiência e praticidade.
+
+[Clique aqui para mais detalhes](/docs/guides/add-channel-instagram)
 
 ## Facebook Messenger
 
@@ -41,6 +47,3 @@ O Kinbox oferece integração de canais customizados, ou seja, se sua empresa j�
 
 [Clique aqui para mais detalhes](/docs/guides/add-channel-custom)
 
-## Instagram (Em breve)
-
-Com o Kinbox Instagram você poderá realizar o atendimento via **directs** do Instagram com seus clientes, compatilhando imagens e fazendo promoções!
