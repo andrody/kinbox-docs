@@ -15,6 +15,8 @@ Caso sua conta tenha sido criada usando o botão **Entrar com Facebook**, você 
 - Dê um nome ao canal.
 - Entre com seu usuário e senha
 
+> Por enquanto o Kinbox não dá suporte a autenticação de dois fatores (2FA), se sua conta usa, por favor, desabilite efetue a vinculação no Kinbox, após isso, habilite novamente.
+
 > Ao adicionar um canal Instagram, um ambiente dedicado a troca de mensagens é criado, o tempo para disponibilidade pode levar até 10 minutos.
 
 > Ao adicionar um canal Instagram, pode ser solicitado a você um **código de autenticação**, nesse caso, você receberá um e-mail com um código, copie e cole o código no lugar especificado no Kinbox e sua conta estará pronta para o uso.
