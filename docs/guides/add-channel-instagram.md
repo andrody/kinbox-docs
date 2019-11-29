@@ -8,7 +8,7 @@ Você pode ler e responder mensagens que seus clientes enviam para o seu Direct 
 ![](../../img/insta_bg.png)
 
 # Login com facebook
-Caso sua conta tenha sido criada usando o botão **Entrar com Facebook**, você terá que criar uma senha para sua conta, para isso, acesse: https://www.instagram.com/accounts/password/reset/, acesse o email da conta e siga os passos para criar uma senha, após isso siga os passos abaixo para vircular sua conta ao Kinbox.
+Caso sua conta tenha sido criada usando o botão **"Entrar com Facebook"**, você terá que criar uma senha para sua conta usando o recurso **"Esqueceu a senha?"** do instagram, para isso, clique aqui: [Criar senha Instagram](https://www.instagram.com/accounts/password/reset/), acesse o email da conta e siga os passos para criar uma senha, após isso siga os passos abaixo para vircular sua conta ao Kinbox.
 
 ## Adicionando novo canal
 - Vá para Configurações > Canais > +Novo e escolha a opção Instagram.
