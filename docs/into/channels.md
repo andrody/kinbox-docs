@@ -19,7 +19,7 @@ O Kinbox WhatsApp é uma plataforma que foi pensada para atender as demandas de 
 
 ## Instagram Direct
 
-Para as empresas, o aplicativo pode acabar se tornando uma ferramenta eficaz de marketing digital, com alto potencial de atração de clientes, desde que seja utilizado estrategicamente. Pesquisas mostram que o aplicativo tem sido usado cada vez mais para definição de estilo de vida, pesquisa de compras, reconhecimento de marca e muito mais. O Kinbox o ferece suporte ao Direct do Instagram, atenda seus clientes com eficiência e praticidade.
+Para as empresas, o aplicativo pode acabar se tornando uma ferramenta eficaz de marketing digital, com alto potencial de atração de clientes, desde que seja utilizado estrategicamente. Pesquisas mostram que o aplicativo tem sido usado cada vez mais para definição de estilo de vida, pesquisa de compras, reconhecimento de marca e muito mais. O Kinbox oferece suporte ao Direct do Instagram, atenda seus clientes com eficiência e praticidade.
 
 [Clique aqui para mais detalhes](/docs/guides/add-channel-instagram)
 
