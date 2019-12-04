@@ -21,7 +21,16 @@ Caso sua conta tenha sido criada usando o botão **"Entrar com Facebook"**, voc�
 
 > Ao adicionar um canal Instagram, pode ser solicitado a você um **código de autenticação**, nesse caso, você receberá um e-mail com um código, copie e cole o código no lugar especificado no Kinbox e sua conta estará pronta para o uso.
 
+## Alteração de senha do Instagram
+**Sempre que a senha do Instagram for trocada, o agente deverá renovar a sessão.**
+
+- Vá para Configurações → Canais 
+- Selecione o Canal Instagram que terá a sessão renovada 
+- Digite a nova senha no campo “senha” 
+- Clique em “Salvar”
+
 ## Relogando um canal
+
 - Vá para Configurações > Canais > e escolha a conta instagram que você conectou.
 - Preencha seu usuário se senha
 - Clique em Salvar
